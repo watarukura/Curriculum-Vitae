@@ -7,6 +7,8 @@
 |Name|倉嶋 渉(Wataru Kurashima)|
 |Twitter|[@What_R](https://twitter.com/What_R)|
 |Facebook|[wataru.kurashima](https://www.facebook.com/wataru.kurashima)|
+|scrapbox|https://scrapbox.io/watarukura/|
+|Qiita|https://qiita.com/watarukura|
 
 ## スキル
 
@@ -15,6 +17,9 @@
 - プログラミング言語
   - PHP
   - Bash
+  - Golang
+  - JavaScript
+  - Python
   - COBOL
   - Ruby
 
@@ -27,10 +32,19 @@
 
 - [Slim](https://www.slimframework.com/)
   - ECサイトのAPIサーバ、管理画面で使用
+- [express](https://expressjs.com/ja/)
+  - ECサイト管理画面で使用
+- [serverless](https://serverless.com/)
+  - AWS Lambdaの作成で使用
 
 ### その他
 
 - AWS
+  - Elastic Beanstalk
+  - DynamoDB
+  - Aurora(MySQL)
+  - SQS
+  - ...
 - [ユニケージ開発手法](https://www.usp-lab.com/methodology.html)
 - ACOS-4
 - JP1/AJS
