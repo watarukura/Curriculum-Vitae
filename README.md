@@ -16,12 +16,19 @@
 
 - プログラミング言語
   - PHP
+    - 2015 
   - Bash
+    - 2015
   - Golang
+    - 2017
   - JavaScript
+    - 2015
   - Python
+    - 2018
   - COBOL
+    - 2007
   - Ruby
+    - 2010
 
 - 日本語
   - ネイティブ
@@ -41,6 +48,7 @@
 
 - AWS
   - Elastic Beanstalk
+  - Elastic Container Service
   - DynamoDB
   - Aurora(MySQL)
   - SQS
@@ -59,7 +67,7 @@
 ## やったことはないが興味があるもの
 
 - 関数型言語を使った開発
-  - scala勉強会を社内で実施中
+- Domain Driven Design  
 
 ## 登壇歴
 
