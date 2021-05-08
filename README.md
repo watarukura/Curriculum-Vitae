@@ -9,6 +9,7 @@
 |Facebook|[wataru.kurashima](https://www.facebook.com/wataru.kurashima)|
 |scrapbox|https://scrapbox.io/watarukura/|
 |Qiita|https://qiita.com/watarukura|
+|Zenn|https://zenn.dev/watarukura|
 
 ## スキル
 
@@ -25,10 +26,6 @@
     - 2015
   - Python
     - 2018
-  - COBOL
-    - 2007
-  - Ruby
-    - 2010
 
 - 日本語
   - ネイティブ
@@ -37,6 +34,8 @@
 
 ### フレームワーク
 
+- [Laravel](https://laravel.com/)
+  - APIサーバで使用 
 - [Slim](https://www.slimframework.com/)
   - ECサイトのAPIサーバ、管理画面で使用
 - [express](https://expressjs.com/ja/)
@@ -54,9 +53,6 @@
   - SQS
   - ...
 - [ユニケージ開発手法](https://www.usp-lab.com/methodology.html)
-- ACOS-4
-- JP1/AJS
-- Hulft
 
 ## 強み
 
@@ -83,7 +79,20 @@
 
 ## 職務経歴
 
-### 2015/07 - : ハンズラボ株式会社
+### 2021/04 - : トラーナ株式会社
+
+職務: Webアプリケーションエンジニア
+
+#### バックエンドの開発・運用
+
+- インフラ設計
+- アーキテクチャ設計
+- 技術選定
+- 要件定義・基本設計・詳細設計
+- 実装・テスト・障害対応
+- 開発環境改善
+
+### 2015/07 - 2021/04: ハンズラボ株式会社
 
 職務: Webアプリケーションエンジニア
 
