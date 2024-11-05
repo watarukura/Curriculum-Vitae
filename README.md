@@ -7,9 +7,9 @@
 |Name|倉嶋 渉(Wataru Kurashima)|
 |Twitter|[@What_R](https://twitter.com/What_R)|
 |Facebook|[wataru.kurashima](https://www.facebook.com/wataru.kurashima)|
-|scrapbox|https://scrapbox.io/watarukura/|
-|Qiita|https://qiita.com/watarukura|
+|cosense|https://scrapbox.io/watarukura/|
 |Zenn|https://zenn.dev/watarukura|
+|Qiita|https://qiita.com/watarukura|
 
 ## スキル
 
@@ -17,15 +17,17 @@
 
 - プログラミング言語
   - PHP
-    - 2015 
+    - 2015 から業務で利用
   - Bash
-    - 2015
-  - Golang
-    - 2017
+    - 2015 から業務で利用
   - JavaScript
-    - 2015
+    - 2015 から業務で利用
   - Python
-    - 2018
+    - 2018 から業務で利用
+  - Golang
+    - 2017 から私用
+  - Rust
+    - 2021 から私用
 
 - 日本語
   - ネイティブ
@@ -36,23 +38,17 @@
 
 - [Laravel](https://laravel.com/)
   - APIサーバで使用 
-- [Slim](https://www.slimframework.com/)
-  - ECサイトのAPIサーバ、管理画面で使用
-- [express](https://expressjs.com/ja/)
-  - ECサイト管理画面で使用
-- [serverless](https://serverless.com/)
-  - AWS Lambdaの作成で使用
 
 ### その他
 
 - AWS
-  - Elastic Beanstalk
   - Elastic Container Service
   - DynamoDB
   - Aurora(MySQL)
   - SQS
   - ...
 - [ユニケージ開発手法](https://www.usp-lab.com/methodology.html)
+- terraform
 
 ## 強み
 
@@ -63,7 +59,6 @@
 ## やったことはないが興味があるもの
 
 - 関数型言語を使った開発
-- Domain Driven Design  
 
 ## 登壇歴
 
@@ -79,11 +74,20 @@
 
 ## 職務経歴
 
+### 2023/11 - : 合同会社DMM.com
+
+職務: SRE(業務委託)
+
+#### インフラ運用の改善
+
+- terraformのCI環境改善
+- AWSコスト可視化と削減
+
 ### 2021/04 - : トラーナ株式会社
 
 職務: Webアプリケーションエンジニア
 
-#### バックエンドの開発・運用
+#### バックエンド・インフラの開発・運用
 
 - インフラ設計
 - アーキテクチャ設計
